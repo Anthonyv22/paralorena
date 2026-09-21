@@ -1,0 +1,44 @@
+FLORES AMARILLAS PREMIUM PARA LORENA — V2
+
+ARCHIVOS:
+- index.html
+- lorena_1.png
+- lorena_2.png
+- heavenly.mp3  <-- este archivo debes agregarlo tú
+
+MÚSICA:
+La página está preparada para reproducir:
+"Heavenly" — Cigarettes After Sex
+
+Por derechos de autor, el ZIP no incluye la canción.
+Si tienes un archivo de audio que puedas usar legalmente:
+
+1. Renómbralo exactamente:
+   heavenly.mp3
+
+2. Colócalo junto a index.html, así:
+
+   lorena_flores_premium_v2/
+   ├── index.html
+   ├── lorena_1.png
+   ├── lorena_2.png
+   └── heavenly.mp3
+
+3. Luego sube LA CARPETA COMPLETA a Netlify Drop.
+
+CÓMO SUBIR:
+1. Descomprime este ZIP.
+2. Agrega heavenly.mp3.
+3. Entra a https://app.netlify.com/drop
+4. Arrastra la carpeta completa.
+5. Netlify te dará un enlace.
+6. Ese enlace se lo envías a Lorena.
+
+IMPORTANTE:
+Los navegadores normalmente bloquean música automática antes de una interacción.
+Por eso la canción comienza cuando Lorena toca:
+"ABRIR MI SORPRESA ✨"
+
+PERSONALIZACIÓN:
+El nombre de Lorena y Anthony ya están incluidos.
+Puedes editar el texto abriendo index.html en Bloc de notas o VS Code.
